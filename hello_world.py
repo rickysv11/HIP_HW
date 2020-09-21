@@ -1,0 +1,2 @@
+#ricky
+print("hello world")
